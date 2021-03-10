@@ -1,0 +1,13 @@
+img {
+  border-radius: 20px;
+  margin-right: 12px;
+}
+
+.label {
+  background-color: #004b87;
+  color: #fff;
+}
+
+[v-cloak] {
+  display: none;
+}
